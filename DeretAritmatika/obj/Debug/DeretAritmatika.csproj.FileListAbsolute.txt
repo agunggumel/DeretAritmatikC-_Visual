@@ -1,0 +1,14 @@
+D:\AgungGumelarF_0617101009_IFA\DeretAritmatika\DeretAritmatika\bin\Debug\DeretAritmatika.exe.config
+D:\AgungGumelarF_0617101009_IFA\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.csprojResolveAssemblyReference.cache
+D:\AgungGumelarF_0617101009_IFA\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.Form1.resources
+D:\AgungGumelarF_0617101009_IFA\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.Properties.Resources.resources
+D:\AgungGumelarF_0617101009_IFA\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.csproj.GenerateResource.Cache
+D:\DeretAritmatika\DeretAritmatika\bin\Debug\DeretAritmatika.exe.config
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.csprojResolveAssemblyReference.cache
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.Form1.resources
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.Properties.Resources.resources
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.csproj.GenerateResource.Cache
+D:\DeretAritmatika\DeretAritmatika\bin\Debug\DeretAritmatika.exe
+D:\DeretAritmatika\DeretAritmatika\bin\Debug\DeretAritmatika.pdb
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.exe
+D:\DeretAritmatika\DeretAritmatika\obj\Debug\DeretAritmatika.pdb
